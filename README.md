@@ -1,16 +1,37 @@
-### Hi there 👋
+![Bruna Nunes (3)](https://user-images.githubusercontent.com/61390706/97644496-362f8f80-1a29-11eb-9807-4b0436a5e7cc.gif)
 
-<!--
-**bruna-nunes/bruna-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oi, tudo bem? Bem-vindo(a) ao meu perfil! <img src="https://user-images.githubusercontent.com/61390706/97645803-ac81c100-1a2c-11eb-8cff-27826cc91590.gif" width="30">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bom dia/tarde/noite ou qualquer outro horário em que você se encontre ai no seu planeta! :rocket:
+
+Meu nome é Bruna Nunes, e eu tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Ferraz de Vasconcelos. Porém, minha jornada no mundo da informática e do desenvolvimento começou a alguns anos atrás: em 2016, eu comecei um curso técnico na Etec de Guaianazes, concluindo-o em 2018. A partir daí, venho fazendo diversos cursos online, pesquisando, e estudando mais sobre a área. O meu foco, até o momento, é me tornar uma desenvolvedora frontend. (Mas claro, isso pode mudar. Tenho quase certeza que alguém, alguma vez, disse que a única constante na vida é a mudança).
+
+
+#### :dart: Habilidades
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- PHP
+- SQL SERVER e MySQL
+
+#### :books: Aprendendo
+- Flutter e Dart
+- Angular
+- Ionic
+- Typescript
+- JQuery
+- Node
+
+#### :calendar: Interesses futuros
+- Adobe Illustrator
+- React
+- Vue
+
+#### :telephone_receiver: Contato. 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruna-nunes)](https://github.com/bruna-nunes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-nunes-b33b5a176/)](https://www.linkedin.com/in/bruna-nunes-b33b5a176/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunanunes997@gmail.com)](mailto:brunanunes997@gmail.com)
+
