@@ -18,17 +18,17 @@ Meu nome é Bruna Nunes, e eu tenho 19 anos. Atualmente estou cursando Análise 
 - SQL SERVER e MySQL
 
 #### :books: Aprendendo
-- Flutter e Dart
-- Angular
-- Ionic
+- Vue
+- UX/UI
 - Typescript
 - JQuery
-- Node
+
 
 #### :calendar: Interesses futuros
+- Flutter e Dart
 - Adobe Illustrator
 - React
-- Vue
+- Angular
 
 #### :telephone_receiver: Contato. 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruna-nunes)](https://github.com/bruna-nunes)
