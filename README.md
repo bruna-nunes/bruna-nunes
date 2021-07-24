@@ -1,4 +1,4 @@
-![Bruna Nunes (3)](https://user-images.githubusercontent.com/61390706/97644496-362f8f80-1a29-11eb-9807-4b0436a5e7cc.gif)
+![Cópia de Bruna Nunes (2)](https://user-images.githubusercontent.com/61390706/126880476-bb94d79a-211e-4c9b-bb0a-efdb1e1132ae.png)
 
 ### Oi, tudo bem? Bem-vindo(a) ao meu perfil! <img src="https://user-images.githubusercontent.com/61390706/97645803-ac81c100-1a2c-11eb-8cff-27826cc91590.gif" width="30">
 
