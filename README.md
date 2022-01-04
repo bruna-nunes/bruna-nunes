@@ -6,7 +6,7 @@
 
 Bom dia/tarde/noite ou qualquer outro horário em que você se encontre ai no seu planeta! :rocket:
 
-Meu nome é Bruna Nunes, e eu tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Ferraz de Vasconcelos. Porém, minha jornada no mundo da informática e do desenvolvimento começou a alguns anos atrás: em 2016, eu comecei um curso técnico na Etec de Guaianazes, concluindo-o em 2018. A partir daí, venho fazendo diversos cursos online, pesquisando, e estudando mais sobre a área. O meu foco, até o momento, é me tornar uma desenvolvedora frontend. (Mas claro, isso pode mudar. Tenho quase certeza que alguém, alguma vez, disse que a única constante na vida é a mudança).
+Meu nome é Bruna Nunes, e eu tenho 20 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Ferraz de Vasconcelos. Porém, minha jornada no mundo da informática e do desenvolvimento começou a alguns anos atrás: em 2016, eu comecei um curso técnico na Etec de Guaianazes, concluindo-o em 2018. A partir daí, venho fazendo diversos cursos online, pesquisando, e estudando mais sobre a área. O meu foco, até o momento, é me tornar uma desenvolvedora frontend. (Mas claro, isso pode mudar. Tenho quase certeza que alguém, alguma vez, disse que a única constante na vida é a mudança).
 
 
 #### :dart: Habilidades
@@ -15,6 +15,7 @@ Meu nome é Bruna Nunes, e eu tenho 19 anos. Atualmente estou cursando Análise 
 - Bootstrap
 - Javascript
 - PHP
+- Wordpress
 - SQL SERVER e MySQL
 
 #### :books: Aprendendo
