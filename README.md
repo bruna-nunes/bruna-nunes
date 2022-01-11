@@ -17,17 +17,18 @@ Meu nome é Bruna Nunes, e eu tenho 20 anos. Atualmente estou cursando Análise 
 - PHP
 - Wordpress
 - SQL SERVER e MySQL
+- Adobe Photoshop
 
 #### :books: Aprendendo
 - Vue
 - UX/UI
 - Typescript
 - JQuery
+- Adobe Illustrator
 
 
 #### :calendar: Interesses futuros
 - Flutter e Dart
-- Adobe Illustrator
 - React
 - Angular
 
